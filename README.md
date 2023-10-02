@@ -9,7 +9,8 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 ![image](https://github.com/jhanavigera/jhanavigera.github.io/assets/76650476/41918ff9-3582-4c4c-8a71-66f2564be154)<br>
 
 **Activity 3:** <br>
-![image](https://github.com/jhanavigera/jhanavigera.github.io/assets/76650476/46dd06c8-0b38-4b14-b8c2-17b52df5296e)
-![image](https://github.com/jhanavigera/jhanavigera.github.io/assets/76650476/2de8b12e-84ef-474a-a3a0-1045d97c6faf)
+![image](https://github.com/jhanavigera/jhanavigera.github.io/assets/76650476/9e156fa1-59f9-400c-a83f-bb24a8a311ac)
+![image](https://github.com/jhanavigera/jhanavigera.github.io/assets/76650476/2e2b8e9b-bddb-4b4f-8e54-ac664b4396b4)
+
 
 
